@@ -1,0 +1,7 @@
+{
+    "name": "example_mod",
+    "prettyName": "Example Mod",
+    "description": "A simple mod to test the TIMM mod manager.",
+    "author": "vin",
+    "version": "1.0.0"
+}
